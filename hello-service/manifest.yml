@@ -1,0 +1,6 @@
+applications:
+  - name: hello-service-gourav2912
+path: target/hello-service.jar
+domain: cfapps.io
+memory: 800M
+instances: 1
